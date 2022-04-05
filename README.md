@@ -29,3 +29,14 @@ Cet outil peut actuellement effectuer les tâches ci-dessous :
 Le script est simple à comprendre et à utiliser. Il peut être utilisé dans toutes ses fonctionnalités sans ouvrir le code source d'édition
 1. Lors de l'exécution du script principal pour la première fois, il vous dirigera automatiquement vers le menu de configuration, où il vous sera demandé d'entrer les clés API des plates-formes utilisées dans l'outil .
 2. Toutes les clés API sont gérées séparément dans le fichier de clés API. Les clés API sont également cryptées avec un cryptage à clé symétrique .
+### 1. Commencer
+Pour commencer à utiliser l’outil, il vous suffit de cloner ce référentiel.
+```shell
+git clone https://github.com/anasaffane/SOC_Analysis_Tool/
+```
+Une fois cloné avec succès, changez de répertoire en Outil d'Automatisation de l'Analyse des Événement de Sécurité
+## 2.Exigences
+Installez toutes les dépendances via le fichier requirements.txt
+```shell
+  pip3 install -r requirements.txt
+```
