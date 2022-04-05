@@ -27,6 +27,7 @@ Effectuer des recherches DNS, DNS inversé, WHOIS, ISP Lookups .
 Décodage des URL Office365 Safelink, des URL encodées UTF-8 ou Base64 .
 Exécution de File Sandboxing pour le fichier et sa réputation de hachage de fichier associée .
 Effectuer une analyse de surveillance .
+
 ## COMMENT L'UTILISER
 Le script est simple à comprendre et à utiliser. Il peut être utilisé dans toutes ses fonctionnalités sans ouvrir le code source d'édition
 1. Lors de l'exécution du script principal pour la première fois, il vous dirigera automatiquement vers le menu de configuration, où il vous sera demandé d'entrer les clés API des plates-formes utilisées dans l'outil .
