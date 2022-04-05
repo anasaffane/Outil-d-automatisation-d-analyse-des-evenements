@@ -5,7 +5,8 @@ L'objectif principal de l'utilisation de cet outil est d'automatiser autant de p
 
 L'outil implémente également le cryptage (symétrique) afin que toutes vos clés API soient secrètes et sûres et ne puissent pas être manipulées tant que la clé de cryptage secrète n'est pas utilisée. Vous pouvez cependant modifier à tout moment vos clés API si vous avez accès à la clé de chiffrement.
 
-##CARACTÉRISTIQUES
+## CARACTÉRISTIQUES
+
 Cet outil peut actuellement effectuer les tâches ci-dessous :
 Vérification de la réputation des adresses IP, des domaines, des URL et des hachages de fichiers:
 - [Virustotal](https://www.virustotal.com/gui/home/upload)
