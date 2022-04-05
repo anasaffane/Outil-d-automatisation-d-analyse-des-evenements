@@ -1,4 +1,4 @@
-# SOC_Analysis_Tool
+# Outil d'Automatisation de l'Analyse des Événement de Sécurité
 Outil d'analyste SOC pour automatiser l'investigation et la validation d'éventuels indicateurs de compromission (IOC) et effectuer diverses tâches, notamment l'analyse des e-mails de phishing et la surveillance de la marque pour accélérer la réponse aux incidents.
 
 L'objectif principal de l'utilisation de cet outil est d'automatiser autant de points de validation que possible effectués par l'équipe des opérations de sécurité d'entreprise tout en travaillant sur tout incident de sécurité, y compris la surveillance de la marque et une éventuelle attaque de phishing.
@@ -26,7 +26,8 @@ Cet outil peut actuellement effectuer les tâches ci-dessous :
 6. Effectuer une analyse de surveillance .
 
 ## COMMENT L'UTILISER
-Le script est simple à comprendre et à utiliser. Il peut être utilisé dans toutes ses fonctionnalités sans ouvrir le code source d'édition
+Le script est simple à comprendre et à utiliser.
+Il peut être utilisé dans toutes ses fonctionnalités sans ouvrir le code source d'édition
 1. Lors de l'exécution du script principal pour la première fois, il vous dirigera automatiquement vers le menu de configuration, où il vous sera demandé d'entrer les clés API des plates-formes utilisées dans l'outil .
 2. Toutes les clés API sont gérées séparément dans le fichier de clés API. Les clés API sont également cryptées avec un cryptage à clé symétrique .
 ### 1. Commencer
@@ -40,3 +41,11 @@ Installez toutes les dépendances via le fichier requirements.txt
 ```shell
   pip3 install -r requirements.txt
 ```
+### 3. Exécution du script
+Une fois les dépendances installées avec succès, l’outil est prêt à l’emploi. Exécuter le script en exécutant 
+```shell 
+python main_file.py
+```
+Une fois le script exécuté avec succès pour la première fois, vous serez invité à importer vos clés API dans l’outil. Vérifiez  requirements.txt l’étape numéro 3 pour générer les clés API et les importer pendant l’exécution.
+## Auteur
+[Anas Affane](https://github.com/anasaffane/)
