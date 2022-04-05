@@ -8,25 +8,22 @@ L'outil implémente également le cryptage (symétrique) afin que toutes vos cl�
 ## CARACTÉRISTIQUES
 
 Cet outil peut actuellement effectuer les tâches ci-dessous :
-Vérification de la réputation des adresses IP, des domaines, des URL et des hachages de fichiers:
+1. Vérification de la réputation des adresses IP, des domaines, des URL et des hachages de fichiers:
 - [Virustotal](https://www.virustotal.com/gui/home/upload)
 - [Abuse IP DB](https://www.abuseipdb.com/)
 - [Alienvault OTXv2](https://otx.alienvault.com/)
 - [Spyse](https://spyse.com/)
 - [Phishtank](https://phishtank.org/)
 - [URL Scan](https://urlscan.io/)
-
-Analyse de la sécurité des e-mails ( Phishing Email Analysis ) :
-
+2. Analyse de la sécurité des e-mails ( Phishing Email Analysis ) :
 - Analyser une URL de phishing
 - Sandbox une pièce jointe malveillante présente dans un e-mail
 - Analyse de l'en-tête des e-mails
 - Directives pour effectuer une analyse des e-mails de phishing afin d'identifier les menaces .
-
-Effectuer des recherches DNS, DNS inversé, WHOIS, ISP Lookups .
-Décodage des URL Office365 Safelink, des URL encodées UTF-8 ou Base64 .
-Exécution de File Sandboxing pour le fichier et sa réputation de hachage de fichier associée .
-Effectuer une analyse de surveillance .
+3. Effectuer des recherches DNS, DNS inversé, WHOIS, ISP Lookups .
+4. Décodage des URL Office365 Safelink, des URL encodées UTF-8 ou Base64 .
+5. Exécution de File Sandboxing pour le fichier et sa réputation de hachage de fichier associée .
+6. Effectuer une analyse de surveillance .
 
 ## COMMENT L'UTILISER
 Le script est simple à comprendre et à utiliser. Il peut être utilisé dans toutes ses fonctionnalités sans ouvrir le code source d'édition
