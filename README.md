@@ -15,11 +15,14 @@ Vérification de la réputation des adresses IP, des domaines, des URL et des ha
 - [Spyse](https://spyse.com/)
 - [Phishtank](https://phishtank.org/)
 - [URL Scan](https://urlscan.io/)
+
 Analyse de la sécurité des e-mails ( Phishing Email Analysis ) :
+
 - Analyser une URL de phishing
 - Sandbox une pièce jointe malveillante présente dans un e-mail
 - Analyse de l'en-tête des e-mails
 - Directives pour effectuer une analyse des e-mails de phishing afin d'identifier les menaces .
+
 Effectuer des recherches DNS, DNS inversé, WHOIS, ISP Lookups .
 Décodage des URL Office365 Safelink, des URL encodées UTF-8 ou Base64 .
 Exécution de File Sandboxing pour le fichier et sa réputation de hachage de fichier associée .
