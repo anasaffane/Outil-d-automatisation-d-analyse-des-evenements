@@ -36,7 +36,7 @@ Pour commencer à utiliser l’outil, il vous suffit de cloner ce référentiel.
 git clone https://github.com/anasaffane/SOC_Analysis_Tool/
 ```
 Une fois cloné avec succès, changez de répertoire en Outil d'Automatisation de l'Analyse des Événement de Sécurité
-## 2.Exigences
+### 2.Exigences
 Installez toutes les dépendances via le fichier requirements.txt
 ```shell
   pip3 install -r requirements.txt
