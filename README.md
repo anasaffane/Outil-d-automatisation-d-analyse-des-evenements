@@ -37,7 +37,7 @@ Il peut être utilisé dans toutes ses fonctionnalités sans ouvrir le code sour
 ### 1. Commencer
 Pour commencer à utiliser l’outil, il vous suffit de cloner ce référentiel.
 ```shell
-git clone https://github.com/anasaffane/SOC_Analysis_Tool/
+git clone https://github.com/anasaffane/Outil-d-automatisation-d-analyse-des-evenements
 ```
 Une fois cloné avec succès, changez de répertoire en Outil d'Automatisation de l'Analyse des Événement de Sécurité
 ### 2.Exigences
